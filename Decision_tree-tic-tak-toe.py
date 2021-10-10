@@ -1,3 +1,8 @@
+"""
+Author: Evan Klein
+The code from a tutorial
+"""
+
 board = {1: " ", 2: " ", 3: " ",
          4: " ", 5: " ", 6: " ",
          7: " ", 8: " ", 9: " "}

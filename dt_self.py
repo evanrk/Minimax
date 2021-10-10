@@ -1,3 +1,9 @@
+"""
+Author: Evan Klein
+My third attempt at improving the minimax code:
+I tried to improve the decision tree by weighting the wins/losses by how far down they are in the decision tree and then add them up to come up with a total score for each move.
+"""
+
 from Decision_tree2 import minimax
 
 

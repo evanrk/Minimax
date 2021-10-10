@@ -1,3 +1,9 @@
+"""
+Author: Evan Klein
+My first attempt at improving the minimax code:
+I tried to improve the decision tree by weighting the wins/losses by how far down they are in the decision tree and then add them up to come up with a total score for each move.
+"""
+
 board = {1: " ", 2: " ", 3: " ",
          4: " ", 5: " ", 6: " ",
          7: " ", 8: " ", 9: " "}
